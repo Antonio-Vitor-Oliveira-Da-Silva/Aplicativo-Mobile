@@ -39,7 +39,7 @@ export default function Step()
         height: data.height
       })
   
-      router.push("./create")
+      router.push("/create")
     }
   
     return(
