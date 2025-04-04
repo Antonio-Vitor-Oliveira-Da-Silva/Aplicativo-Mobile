@@ -83,7 +83,7 @@ export default function Nutrition() {
     )
   }  
 
- return (
+ return(
   <View style={styles.container}>
     <View style={styles.containerHeader}>
       <View style={styles.contentHeader}>
